@@ -1,7 +1,17 @@
 [
   {
-    "file": "experiments/example.js",
-    "name": "Name of your experiment",
-    "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
+    "file": "experiments/Week01_GeorgNeesVariation01.js",
+    "name": "'Schotter', Georg Nees - Variation 01",
+    "description": "Starting with Georg Nees 'Schotter' as a base, I changed the colors of the quares randomly. This change made the piece look more lively and a little more chaotic."
+  },
+  {
+    "file": "experiments/Week01_GeorgNeesVariation02.js",
+    "name": "'Schotter', Georg Nees - Variation 02",
+    "description": "Changing the shape of the squares to triangles changed the feeling of the piece, making it look sharper."
+  },
+  {
+    "file": "experiments/Week01_GeorgNeesVariation03.js",
+    "name": "'Schotter', Georg Nees - Variation 03",
+    "description": "The squares 'dance' around by changing sizes and rotate depending on their position on the canvas. The farther away from the top they are, the faster they spin."
   }
 ]
