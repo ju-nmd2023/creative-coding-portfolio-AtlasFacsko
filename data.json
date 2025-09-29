@@ -13,5 +13,35 @@
     "file": "experiments/Week01_GeorgNeesVariation03.js",
     "name": "'Schotter', Georg Nees - Variation 03",
     "description": "The squares 'dance' around by changing sizes and rotate depending on their position on the canvas. The farther away from the top they are, the faster they spin."
+  },
+  {
+    "file": "experiments/Week01_MichaelNollVariation01.js",
+    "name": "'Plotting', Michael Noll - Variation 01",
+    "description": "Inspired by Michael Nolls 'Plotting', I changed the size of the rectangles and the colors randomly, making it look like confetti."
+  },
+  {
+    "file": "experiments/Week01_MichaelNollVariation02.js",
+    "name": "'Plotting', Michael Noll - Variation 02",
+    "description": "By changing the shape of the rectangles to circles and removing the colored filling, this piece reminds of bubbles in the water."
+  },
+  {
+    "file": "experiments/Week01_MichaelNollVariation03.js",
+    "name": "'Plotting', Michael Noll - Variation 03",
+    "description": "The randomly generated rectanges pulse from the center outwards, looking a little bit like breathing. The farther away they are from the center, the lighter they become."
+  },
+  {
+    "file": "experiments/Week02-03_EmoryDunnVariation01.js",
+    "name": "Emory Dunn - Variation 01",
+    "description": "Adding to Emory Dunns experiments, I animated the lines and added particles whenever a line reaches its destination point on the circle. It then 'bounces back', creating an endless loop of little explosions, reminding of a firework."
+  },
+  {
+    "file": "experiments/Week02-03_EmoryDunnVariation02.js",
+    "name": "Emory Dunn - Variation 02",
+    "description": "For this piece, I changed the shape to a square and created a flow field."
+  },
+  {
+    "file": "experiments/Week04_ColinReidSoundVariation.js",
+    "name": "Colin Reid - Sound Variation",
+    "description": "The circles create different sounds depending on the size."
   }
 ]
