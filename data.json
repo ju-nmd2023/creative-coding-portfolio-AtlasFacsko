@@ -2,46 +2,46 @@
   {
     "file": "experiments/Week01_GeorgNeesVariation01.js",
     "name": "'Schotter', Georg Nees - Variation 01",
-    "description": "Starting with Georg Nees 'Schotter' as a base, I changed the colors of the quares randomly. This change made the piece look more lively and a little more chaotic."
+    "description": "Using Georg Nees 'Schotter' as a foundation, I changed the colors of the squares randomly. This made the piece look more vibrant, adding a more energetic chaos."
   },
   {
     "file": "experiments/Week01_GeorgNeesVariation02.js",
     "name": "'Schotter', Georg Nees - Variation 02",
-    "description": "Changing the shape of the squares to triangles changed the feeling of the piece, making it look sharper."
+    "description": "Changing the shape of the squares to triangles changed the feeling of the piece. It sharpens the composition while preserving the originals sense of movement and chaos."
   },
   {
     "file": "experiments/Week01_GeorgNeesVariation03.js",
     "name": "'Schotter', Georg Nees - Variation 03",
-    "description": "The squares 'dance' around by changing sizes and rotate depending on their position on the canvas. The farther away from the top they are, the faster they spin."
+    "description": "The squares 'dance' around by changing sizes and rotate depending on their position on the canvas. The farther away from the top they are, the faster they spin. This strengthens the feeling of falling squares from the original."
   },
   {
     "file": "experiments/Week01_MichaelNollVariation01.js",
     "name": "'Plotting', Michael Noll - Variation 01",
-    "description": "Inspired by Michael Nolls 'Plotting', I changed the size of the rectangles and the colors randomly, making it look like confetti."
+    "description": "Inspired by Michael Nolls 'Plotting', I changed the size of the rectangles and the colors randomly, making it look like confetti scattered randomly across the canvas."
   },
   {
     "file": "experiments/Week01_MichaelNollVariation02.js",
     "name": "'Plotting', Michael Noll - Variation 02",
-    "description": "By changing the shape of the rectangles to circles and removing the colored filling, this piece reminds of bubbles in the water."
+    "description": "By changing the shape of the rectangles to circles and removing the colored filling, this piece reminds of bubbles rising in water, feeling light and fluid."
   },
   {
     "file": "experiments/Week01_MichaelNollVariation03.js",
     "name": "'Plotting', Michael Noll - Variation 03",
-    "description": "The randomly generated rectanges pulse from the center outwards, looking a little bit like breathing. The farther away they are from the center, the lighter they become."
+    "description": "The randomly generated rectanges pulse from the center outwards, looking like the canvas is breathing. The farther away they are from the center, the lighter they become, creating a hypnotic or meditational feeling."
   },
   {
     "file": "experiments/Week02-03_EmoryDunnVariation01.js",
     "name": "Emory Dunn - Variation 01",
-    "description": "Adding to Emory Dunns experiments, I animated the lines and added particles whenever a line reaches its destination point on the circle. It then 'bounces back', creating an endless loop of little explosions, reminding of a firework."
+    "description": "Adding to Emory Dunns experiments, I animated the lines and added particles whenever a line reaches its endpoint on the circle. It then 'bounces back', creating an endless loop of little explosions, reminding of a firework."
   },
   {
     "file": "experiments/Week02-03_EmoryDunnVariation02.js",
     "name": "Emory Dunn - Variation 02",
-    "description": "For this piece, I changed the shape to a square and created a flow field."
+    "description": "For this piece, I changed the shape from a circle to a square and added a flow field. The lines still start and end at a designated point, but wander in the canvas unpredictably."
   },
   {
     "file": "experiments/Week04_ColinReidSoundVariation.js",
     "name": "Colin Reid - Sound Variation",
-    "description": "The circles create different sounds depending on the size."
+    "description": "This sound-driven variation was inspired by Colin Reid. Each circle, defined by its random size and color, produces a tone when it appears depending on its size. They each spawn after one another to create enough room for their sound."
   }
 ]

@@ -12,6 +12,12 @@ let audioReady = false;
 function setup() {
   createCanvas(innerWidth, innerHeight);
   background(0);
+  noLoop();
+
+  startButton = createButton("Start");
+  startButton.style("font-size", "20px");
+  startButton.style("padding", "10px 20px");
+  startButton.position(width / 2, height / 2);
 
   synth = new Tone.Synth().toDestination();
 
@@ -24,7 +30,8 @@ function mousePressed() {
     Tone.start().then(() => {
       synth = new Tone.Synth().toDestination();
       audioReady = true;
-      console.log("Audio started!");
+      startButton.remove();
+      loop();
     });
   }
 }
